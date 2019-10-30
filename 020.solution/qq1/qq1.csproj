@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{092BF7C2-15FF-4CF9-823B-48C5CBFECA1C}</ProjectGuid>
+    <ProjectGuid>{0B7310DA-DDAC-4532-9C4E-42D6A7BEC607}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>q5</RootNamespace>
-    <AssemblyName>q5</AssemblyName>
+    <RootNamespace>qq1</RootNamespace>
+    <AssemblyName>qq1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="020.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
